@@ -1,3 +1,11 @@
+[General]
+// warning, notify, info, verbose
+loglevel = notify
+
+[Rule]
+FINAL,ProxyA
+
+[Host]
 127.0.0.1 = localhost
 127.0.0.1 = log.v.iask.com
 127.0.0.1 = log.hunantv.com
